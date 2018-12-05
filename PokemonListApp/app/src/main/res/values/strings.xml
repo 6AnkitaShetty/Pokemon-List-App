@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+
+    <string name="pokemon_type_name">Type</string>
+    <string name="pokemon_ability_name">Abilities</string>
+</resources>
